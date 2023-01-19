@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
-<h3 align="center">A passionate IOS Native application developer from India</h3>
+<h3 align="center">A passionate IOS application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketp2261&label=Profile%20views&color=0e75b6&style=flat" alt="aniketp2261" /> </p>
 <img align="right" width="400" src="https://images.app.goo.gl/8ZtiEs4c235mnyC19">
