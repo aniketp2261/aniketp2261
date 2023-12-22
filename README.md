@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketp2261&label=Profile%20views&color=0e75b6&style=flat" alt="aniketp2261" /> </p>
 <img align="right" width="400" src="https://images.app.goo.gl/8ZtiEs4c235mnyC19">
 
-- 🔭 I’m currently working on **Mech Uni**
+- 🔭 I’m currently working on **VKonnect & MechUni**
 
 - 🌱 I’m currently learning **Swift,Cocoa Touch, MVC, MVVM, SPRING, SPRING BOOT**
 
 - 👯 I’m looking to collaborate on **Mech Uni App**
 
 - 📫 How to reach me **aniketp2261@gmail.com**
-
-- 📄 Know about my experiences [New Resume](New Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
